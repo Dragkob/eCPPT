@@ -3,7 +3,7 @@
 </h1>
 
 ## <p align="center">eCPPTv3 Cheat Sheet | Course Notes</p>
-Exam review and what to expect <a href="https://dragkob.notion.site/eJPTv2-Review-Dragkob-11ec072638a6807e86e9ca8304f43b96" target="_blank">here</a>.
+Exam review and what to expect <a href="https://dragkob.notion.site/eCPPTv3-Review-Dragkob-11ec072638a680d0b775d2e4751cd5af" target="_blank">here</a>.
 <br />
 You will find my detailed course notes, which also serve as cheat sheets for the eCPPTv3 course. Please note that these notes alone are insufficient to pass, as the INE course for eCPPTv3 lacks significant material. For additional insights and for tips on how to pass, refer to the tips and recommendations provided in my review above.
 <br />
